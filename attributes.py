@@ -32,6 +32,11 @@ if 5 > 2:
             
 # Todos irão funcionar corretamente
               
+# Se eu programar da seguinte maneira, o código não irá funcionar, devo deixar o espaço da indentação para o código rodar
+
+# if 5 > 2:
+# print("Cinco é maior que dois!")
+
 # TAGS
 
 print("Tags em python")
